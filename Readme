@@ -1,0 +1,23 @@
+BargainHunter Platform
+Project Overview
+The BargainHunter platform is a dynamic online marketplace designed to facilitate seamless transactions for buying, selling, and listing various products and properties. As the project manager, I led a dynamic team through a series of Agile sprints, ensuring that each phase was meticulously executed for timely delivery and stakeholder satisfaction.
+
+Project Management Approach
+Utilizing tools like Jira and Jenkins, I orchestrated seamless project management and integration, overseeing various facets such as business requirements, documentation, and timelines. Providing technical guidance to a team of developers proficient in a range of technologies, including Node.js, React, and Java, I fostered a collaborative environment geared towards achieving our project objectives efficiently.
+
+Platform Enhancements
+In addition to project oversight, I spearheaded initiatives aimed at enhancing platform performance and security. From championing secure deployment practices to orchestrating deployment operations on AWS EC2 instances, I ensured scalability, reliability, and cost optimization. Implementing CI/CD pipelines with Jenkins streamlined testing and deployment processes, elevating code quality and operational efficiency. Through strategic database management utilizing MySQL, MongoDB, and Firebase, alongside robust version control with GitHub, I played a pivotal role in delivering a resilient, user-centric platform that facilitated seamless transactions and fostered community engagement.
+
+Getting Started
+To get started with the BargainHunter platform, follow these steps:
+
+Clone the repository from GitHub.
+https://github.com/Alstenvaz/Bargain-Hunters.git
+
+Install the necessary dependencies using npm or yarn.
+Configure the database settings in the respective configuration files.
+Run the application locally for testing and development purposes.
+
+Contributors
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
